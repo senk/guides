@@ -10,7 +10,7 @@
 
 [![Throughput Graph](https://graphs.waffle.io/freeCodeCamp/guide/throughput.svg)](https://waffle.io/freeCodeCamp/guide/metrics)
 
-Die freeCodeCamp Community baut auf einen massiven, duchsuchbaren **"Guide"**.
+Die freeCodeCamp Community baut auf einen massiven, durchsuchbaren **"Guide"**.
 
 Dieses Referenzwerkzeug wird schließlich Tausende von Artikeln enthalten, die alle Bereiche der Entwicklung, des Designs und der Datenwissenschaft abdecken - allesamt so geschrieben, dass sie für Einsteiger in die Programmierung leicht verständlich sind.
 
